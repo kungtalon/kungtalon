@@ -2,7 +2,7 @@
 
 Some facts about me:
 
-🤓 I am currently pursuing master degree in data science at University of Michigan, Ann Arbor. 
+👨‍🎓 I am currently pursuing master degree in data science at University of Michigan, Ann Arbor. 
 
 🥑 I am interested in big data development and application of machine learning methods. I am familiar with several programming languages, including Java, Python, Go, Scala and C++. Java and Python are preferred. 
 
