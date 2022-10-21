@@ -4,7 +4,7 @@ Some facts about me:
 
 👨‍🎓 I am currently pursuing master degree in data science at University of Michigan, Ann Arbor. 
 
-🥑 I am interested in application of machine learning methods and large-scale distributed machine learning systems. I am familiar with several programming languages, including Java, Python, Go, Scala and C++. Java and Python are preferred. 
+🥑 I am interested in application of machine learning methods and large-scale distributed systems. I am familiar with several programming languages, including Java, Python, C++ and Go.
 
 🐼 I have lots of hands-on experience in industrial pojects with Spark, Flink, Kafka, Redis and Spring. From Jul. 2020 to Jul 2021, I worked for Meituan, China's largest food delivery platform, as Machine Learning Engineer and developed recommendation systems there.
 
